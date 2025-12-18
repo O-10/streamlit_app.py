@@ -1,9 +1,7 @@
 streamlit
 opencv-python-headless
-numpy
-pandas
 ultralytics
+pandas
 matplotlib
-sentence-transformers
-scikit-learn
-torch
+torch  # Necesario para ultralytics/YOLO
+torchvision  # También para YOLO
