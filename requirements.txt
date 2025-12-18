@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+ultralytics
+matplotlib
+sentence-transformers
+scikit-learn
+torch
